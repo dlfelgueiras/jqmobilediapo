@@ -1,0 +1,9 @@
+*{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none}
+.ui-loader{display:none}
+body,html{padding:0;margin:0;background:#000}
+.ui-body-c,.ui-dialog.ui-overlay-c{background:#000}
+.btn{position:absolute;width:100%;background-color:#000;opacity:.7;z-index:9999}
+.btn a,.btn a{display:block;text-align:center;color:#fff;font-size:15px;line-height:35px;text-decoration:none;font-family:arial,sans-serif;border:1px solid #e6e6e6}
+#btnNav div a{font-weight:bold}
+ul#imgContainer{list-style:none;position:absolute;padding:0;margin:0}
+ul#imgContainer li{float:left;text-align:center}
